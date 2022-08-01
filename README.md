@@ -5,7 +5,7 @@
 
 
 ## 💻 Skills
-![C Badge][(https://img.shields.io/badge/-C-blue)](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![C Badge](https://user-images.githubusercontent.com/108831247/182178960-6904dc5f-b6fb-4826-96d9-ff7b3bf7d63e.png)
 ![Mysql Badge](https://user-images.githubusercontent.com/108831247/177637129-fddb64a5-88e8-455d-9542-f84abc54c6e0.png)
 ![Java Badge](https://user-images.githubusercontent.com/108831247/177637457-c084e73f-dbe6-4f21-b3e7-dd98c9d6edad.png)
 ![VS Code Badge](https://user-images.githubusercontent.com/108831247/177637481-a385da1b-4d90-4858-ad82-47ffe334489e.png)
