@@ -19,6 +19,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitsokel1&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitsokel1&hide_progress=true)](https://github.com/yigitsokel1/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yigitsokel1&show_icons=true&theme=dark&locale=en" alt="yigitsokel1" /></p>
 
