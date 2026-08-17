@@ -1,30 +1,52 @@
 <h1 align="center">Hey, I'm Osman Yiğit Sökel 👋</h1>
 
 <p align="center">
-Building inspectable AI systems, workflows, and developer tooling.
+Full-Stack AI Engineer building production web products, AI workflows, and data-driven systems.
 </p>
 
 <p align="center">
-I work around AI workflow engineering, retrieval systems, observability, and local-first developer tools.
+I work across Python/FastAPI backends, Next.js applications, PostgreSQL, LLM systems, retrieval, automation, and AI infrastructure.
 </p>
 
 ---
 
-### Focus
+### What I Work On
 
-- Inspectable AI workflows
-- Retrieval systems and semantic search
-- AI observability and debugging
-- Developer tooling
-- Backend and infrastructure-minded systems
+- AI-powered web products and SaaS applications
+- Backend systems, APIs, and automation
+- LLM integrations, RAG, and semantic retrieval
+- AI workflow observability, evaluation, and debugging
+- Data-intensive and financial software systems
+
+---
+
+### Selected Projects
+
+**MindMap-AI**  
+Graph-based document intelligence for academic PDFs, with evidence-backed question answering and source citations.
+
+**Promptura**  
+Iterative AI workflow platform for generating, executing, comparing, and refining prompts across multimodal models.
+
+**TraceAI**  
+Inspectable AI workflow observability for understanding execution steps, latency, retrieved context, and model behavior.
+
+**SemanticFS**  
+Local-first semantic file search with offline embeddings, vector search, incremental indexing, and retrieval benchmarking.
 
 ---
 
 ### Currently
 
-- Software Engineer at BluePython
-- Building projects around AI systems, workflow visibility, and retrieval
-- Writing at [osmanyigitsokel.com](https://www.osmanyigitsokel.com)
+- Artificial Intelligence Engineer at BluePython
+- Building projects around AI systems, backend engineering, retrieval, and developer tooling
+- Writing and documenting my work at [osmanyigitsokel.com](https://www.osmanyigitsokel.com)
+
+---
+
+### Core Stack
+
+`Python` · `FastAPI` · `Next.js` · `React` · `PostgreSQL` · `Redis` · `LLMs` · `RAG` · `Docker`
 
 ---
 
